@@ -37,8 +37,6 @@ uv sync
 
 **pipを使用する場合:**
 ```bash
-pip install -r requirements.txt
-# または
 pip install pandas requests scikit-learn sentence-transformers
 ```
 
