@@ -22,7 +22,7 @@ from datetime import date, timedelta
 SEED = 42
 np.random.seed(SEED)
 
-START_DATE = date(2022, 4, 1)
+START_DATE = date(2020, 4, 1)
 END_DATE   = date(2025, 3, 31)
 TIME_SLOTS = ["morning", "daytime", "evening"]
 
